@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: #181818;
+  color: #f2f2f2;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+  gap: 1rem;
+}
+li a {
+  text-decoration: none;
+  color: white;
+}
+.container {
+}
